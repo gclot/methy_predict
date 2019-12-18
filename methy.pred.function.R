@@ -1,7 +1,7 @@
 
 require("e1071")
 
-methy.prediction=function(data,path="/home/guillem/analisis/marti/v2/analisis/prepare easy code/methy.pred.RData",which.predictor="all"){
+methy.prediction=function(data,path="https://github.com/gclot/methy_predict/blob/master/methy.pred.RData",which.predictor="all"){
 
 	# data: cpgs in columns and samples in rows
 
