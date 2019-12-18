@@ -2,7 +2,7 @@
 require("e1071")
 
 methy.prediction=function(data,which.predictor="all",impute.missings=FALSE,
-	path="/home/guillem/analisis/marti/v2/analisis/prepare easy code/upload to github/methy.pred.RData"){
+	path="https://github.com/gclot/methy_predict/blob/master/methy.pred.RData"){
 
 	# data: cpgs in columns and samples in rows
 	# which.predictor: one of c("main","ALL","CLL","DLBCL","MCL")
